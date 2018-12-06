@@ -1,2 +1,4 @@
-# FlatironMeeting
-Meeting repo for likelihood free inference
+# Flatiron Likelihood-Free Inference Meeting, March 18-22 2019
+
+
+[]
