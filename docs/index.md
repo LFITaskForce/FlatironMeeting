@@ -3,9 +3,10 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
+title: Home
 ---
 
-## Rationale
+# Rationale
 
 The goal of this meeting is to gather developers and users of Likelihood-Free
 Inference methods to share latest techniques, use cases and applications across
