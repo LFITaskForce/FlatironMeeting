@@ -6,25 +6,34 @@ layout: default
 title: Home
 ---
 
-# Rationale
+## Rationale
 
 The goal of this meeting is to gather developers and users of Likelihood-Free
 Inference methods to share latest techniques, use cases and applications across
 different fields, and discuss open challenges. The first two days of the workshop
-will be dedicated to talks and discussions, while the remaining of the week will
-be dedicated to a few hack days with the goal of seeding the development of a
+will be focused on talks and discussions, while the remaining of the week will
+be dedicated to a hackathon with the goal of seeding the development of a
 common probabilistic programming framework for Likelihood-Free Inference as well
 as collaboratively working on LFI-related hack projects.
 
-Topics of interest:
-  - Likelihood-Free Inference techniques
-  - Density Estimation
-  - Dimensionality reduction
-  - Fast emulation
-  - Posterior validation
+## Invited speakers
+
+Coming soon
 
 
-# Code of Conduct
+## News
+
+- *January 20th, 2019* : Opening registration
+
+## Organizing Committee
+
+- [Justin Alsing](https://www.researchgate.net/profile/Justin_Alsing), Oskar Klein Center, Stockholm University
+- [Dan Foreman-Mackey](https://dfm.io/), Center for Computational Astrophysics, Flatiron Institute
+- [ChangHoon Hahn](http://changhoonhahn.github.io/), Berkeley Center for Cosmological Physics, UC Berkeley
+- [Francois Lanusse](http://flanusse.net/), Foundation of Data Analysis Institute, UC Berkeley
+- [Ben Wandelt](http://ilp.upmc.fr/wandelt.php), Institut Lagrange de Paris
+
+## Code of Conduct
 
 We are committed to making the meeting productive and enjoyable for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, nationality or religion. We will not tolerate harassment of participants in any form. Please follow these guidelines:
 
