@@ -8,7 +8,7 @@ title: Home
 
 ## Rationale
 
-The goal of this meeting is to gather developers and users of Likelihood-Free
+The goal of this interdisciplinary meeting is to gather developers and users of Likelihood-Free
 Inference methods to share latest techniques, use cases and applications across
 different fields, and discuss open challenges. The first two days of the workshop
 will be focused on talks and discussions, while the remaining of the week will
