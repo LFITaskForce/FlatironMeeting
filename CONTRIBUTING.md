@@ -15,7 +15,7 @@ Here is a short summary:
   - Make sure Ruby 2.1.0 or higher is installed and install
    `bundler`:
    ```
-   $ gem install bundler
+   $ gem install bundler:1.17.1
    ```
 
   - Clone this repository and go to the `docs` folder:
