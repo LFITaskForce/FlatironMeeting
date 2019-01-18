@@ -13,8 +13,18 @@ The meeting will be held at the Flatiron Institute, at **162 5th Ave. New York, 
 
 ## Lodging
 
-Coming soon
+#### Hotels near the Flatiron Institute 
+- [The Marcel at Gramercy](https://themarcelatgramercy.com/)
+- [The Redbury Marcel](https://theredbury.com/)
+- [Four Points by Sheraton Chelsea](https://www.marriott.com/hotels/travel/nycpc-four-points-manhattan-chelsea/)
+- [Hampton Inn Chelsea](https://hamptoninn3.hilton.com/en/hotels/new-york/hampton-inn-manhattan-chelsea-NYCCSHX/index.html?SEO_id=GMB-HP-NYCCSHX) 
+
+#### Hotels conveniently located by subway
+- [Pod 39](https://www.thepodhotel.com/pod-39/?gclid=Cj0KCQiA7IDiBRCLARIsABIPohgFKN_DeKl1ZBM5PTecJzHnes1M98nc6kezFSUu3YuydrZQfkGzf-oaAvdKEALw_wcB&gclsrc=aw.ds) 
+- [Holiday Inn Brooklyn Downtown](https://www.ihg.com/holidayinn/hotels/us/en/brooklyn/lgabr/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-US-_-LGABR)
+- [Hotel Indigo Brooklyn](https://www.ihg.com/hotelindigo/hotels/us/en/brooklyn/bxyid/hoteldetail?cm_mmc=GoogleMaps-_-IN-_-US-_-BXYID)
+
 
 ## Travel
-
-Coming soon
+#### Subway
+The Flatiron Institute is located near the **R, W (yellow) line 23 Street Station** (3 min walk), the **6 (green) line 23 Street Station** (5 min walk), and the **1, 2 (red) line 23 Street Station** (10 min). 
