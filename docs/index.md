@@ -16,14 +16,9 @@ be dedicated to a hackathon with the goal of seeding the development of a
 common probabilistic programming framework for Likelihood-Free Inference as well
 as collaboratively working on LFI-related hack projects.
 
-## Invited speakers
-
-Coming soon
-
-
 ## News
 
-- *January 20th, 2019* : Opening registration
+- *February 6th, 2019* : Opening registration
 
 ## Organizing Committee
 
