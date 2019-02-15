@@ -25,6 +25,8 @@ as collaboratively working on LFI-related hack projects.
 ## Organizing Committee
 
 - [Justin Alsing](https://www.researchgate.net/profile/Justin_Alsing), Oskar Klein Center, Stockholm University
+- [Johann Brehmer](https://github.com/johannbrehmer), Center for Data Science, New York University
+- [Stephen Feeney](https://www.simonsfoundation.org/team/stephen-feeney/), Center for Computational Astrophysics, Flatiron Institute
 - [Dan Foreman-Mackey](https://dfm.io/), Center for Computational Astrophysics, Flatiron Institute
 - [ChangHoon Hahn](http://changhoonhahn.github.io/), Berkeley Center for Cosmological Physics, UC Berkeley
 - [Francois Lanusse](http://flanusse.net/), Foundation of Data Analysis Institute, UC Berkeley
