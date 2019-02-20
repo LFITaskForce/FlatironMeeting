@@ -2,4 +2,4 @@
 layout: default
 title: Registration
 ---
-Due to limited meeting size, main registration is now closed. Please contact the organizers directly to enquire about late registration.
+Main registration is now closed, please contact [the organizers](mailto:flanusse@berkeley.edu) directly to enquire about late registration.
