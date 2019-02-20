@@ -18,8 +18,9 @@ as collaboratively working on LFI-related hack projects.
 
 ## News
 
-- *February 19th, 2019*: Travel funding application deadline
-- *February 6th, 2019* : Opening registration
+- *February 19th, 2019* : Main registration close, contact organizers for late registration
+- *February 19th, 2019* : Travel funding application deadline
+- *February 6th, 2019*  : Opening registration
 
 
 ## Organizing Committee
