@@ -4,8 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 title: Home
+order: 1
 ---
-
 
 ## Rationale
 
@@ -21,7 +21,7 @@ as collaboratively working on LFI-related hack projects.
 
 ## News
 
-- *March 4th, 2019*     : Preliminary schedule [available]({{"/schedule" | relative_url }}), new Gitter channel [![Gitter](https://badges.gitter.im/LFITaskForce/FlatironMeeting.svg)](https://gitter.im/LFITaskForce/FlatironMeeting?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+- *March 4th, 2019*     : Preliminary schedule [available]({{"/schedule" | relative_url }}), new Gitter channel [![Gitter](https://badges.gitter.im/LFITaskForce/FlatironMeeting.svg)](https://gitter.im/LFITaskForce/FlatironMeeting?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge), new Hackathon page
 - *February 19th, 2019* : Main registration is closed, contact organizers for late registration
 - *February 19th, 2019* : Travel funding application deadline
 - *February 6th, 2019*  : Opening registration

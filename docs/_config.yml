@@ -21,6 +21,10 @@ baseurl: "/FlatironMeeting" # the subpath of your site, e.g. /blog
 url: "https://lfitaskforce.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: lfitaskforce
 
+git_address: https://github.com/LFITaskForce/FlatironMeeting
+git_edit_address: https://github.com/LFITaskForce/FlatironMeeting/edit/master/docs
+
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman

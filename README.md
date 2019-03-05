@@ -15,4 +15,9 @@ as collaboratively working on LFI-related hack projects.
 
   - [Website](docs/): Source files for the meeting website
   - [Talks](talks/): Coming soon
-  - [Projects](projects/): Coming soon
+
+## Tracking of Hack Projects
+
+We are using the GitHub issues in this repository to track and discuss hack project. Have a look the [issue page](https://github.com/LFITaskForce/FlatironMeeting/issues?q=is%3Aissue+is%3Aopen+label%3A%22hack+project%22) or the [meeting website](https://lfitaskforce.github.io/FlatironMeeting/hackathon.html) to see existing projects.
+
+Feel free to open a new project by using this [issue template](https://github.com/LFITaskForce/FlatironMeeting/issues/new?assignees=&labels=help+wanted%2C+hack+project&template=new-hack.md&title=%5BHACK%5D+your+hack+title+).
