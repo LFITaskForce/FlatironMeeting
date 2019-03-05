@@ -1,5 +1,7 @@
 # Flatiron Likelihood-Free Inference Meeting, March 18-22 2019
 
+[![Gitter](https://badges.gitter.im/LFITaskForce/FlatironMeeting.svg)](https://gitter.im/LFITaskForce/FlatironMeeting?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 Meeting website here: https://lfitaskforce.github.io/FlatironMeeting/
 
 The goal of this interdisciplinary meeting is to gather developers and users of Likelihood-Free

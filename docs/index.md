@@ -6,11 +6,14 @@ layout: default
 title: Home
 ---
 
+
 ## Rationale
 
 The goal of this interdisciplinary meeting is to gather developers and users of Likelihood-Free
 Inference methods to share latest techniques, use cases and applications across
-different fields, and discuss open challenges. The first two days of the workshop
+different fields, and discuss open challenges.
+
+The first two days of the workshop
 will be focused on talks and discussions, while the remaining of the week will
 be dedicated to a hackathon with the goal of seeding the development of a
 common probabilistic programming framework for Likelihood-Free Inference as well
@@ -18,6 +21,7 @@ as collaboratively working on LFI-related hack projects.
 
 ## News
 
+- *March 4th, 2019*     : Preliminary schedule [available]({{"/schedule" | relative_url }}), new Gitter channel [![Gitter](https://badges.gitter.im/LFITaskForce/FlatironMeeting.svg)](https://gitter.im/LFITaskForce/FlatironMeeting?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 - *February 19th, 2019* : Main registration is closed, contact organizers for late registration
 - *February 19th, 2019* : Travel funding application deadline
 - *February 6th, 2019*  : Opening registration
