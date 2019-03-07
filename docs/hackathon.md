@@ -79,3 +79,6 @@ any resources you might have that may be of interests to other participants
 | Francois | LFI for Cosmology and beyond | Python,TensorFlow, Deep Learning, Weak Lensing | @EiffL |
 |----------|-------------|-----------|------------------|---------------|
 | Johann   | LFI with more data from simulationis, particle physics, non-physics applications | Python, PyTorch, particle physics | @johannbrehmer |
+|----------|-------------|-----------|------------------|---------------|
+| Jan-Matthis | LFI, computational neuroscience | Python, PyTorch, TensorFlow, neuroscience | @jan-matthis |
+
