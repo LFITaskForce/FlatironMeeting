@@ -53,6 +53,9 @@ Once you have created a new hack issue, be sure to list in the table below.
 | Project title | Suggested by | Looking for ? | Likely Participants | Day/Days |
 |---------------|--------------|---------------|---------------------|----------|
 | [Likelihood-Free Inference Toolbox](https://github.com/LFITaskForce/FlatironMeeting/issues/10) | @EiffL | People with experience in (and strong feelings about ;-) ) open source software, probabilistic programming language, and practical LFI |                     | W-F      |
+| [NDEs for discrete (count) data](https://github.com/LFITaskForce/FlatironMeeting/issues/14) | @junstinalsing | People with background knowledge of conditional density estimation + general enthusiasm! | | W-F |
+| [Living review for likelihood-free inference](https://github.com/LFITaskForce/FlatironMeeting/issues/15) | @justinalsing | People with knowledge of some corner(s) of the LFI method space, and/or the practicalities of implementation in different scenarios. Energy for writing. |   | W-F |
+| [Bayesian optimization for delfi](https://github.com/LFITaskForce/FlatironMeeting/issues/16) | @justinalsing | People with Bayesian optimization knowhow |   | W-F |
 
 
 ## Breakout tutorial sessions
@@ -77,14 +80,9 @@ any resources you might have that may be of interests to other participants
 | Name     |   Interests |  Skills/Resources | GitHub/Gitter Handle |
 |----------|-------------|-----------|------------------|---------------|
 | Francois | LFI for Cosmology and beyond | Python,TensorFlow, Deep Learning, Weak Lensing | @EiffL |
-|----------|-------------|-----------|------------------|---------------|
 | Johann   | LFI with more data from simulationis, particle physics, non-physics applications | Python, PyTorch, particle physics | @johannbrehmer |
-|----------|-------------|-----------|------------------|---------------|
 | Jan-Matthis | LFI, computational neuroscience | Python, PyTorch, TensorFlow, neuroscience | @jan-matthis |
-|----------|-------------|-----------|------------------|---------------|
 | Danley | LFI, computational astrophysics, astrostatistics, exoplanets | Python, Julia, Approximate Bayesian Computation code (Julia), astronomy, physics | @dch216 |
-|----------|-------------|-----------|------------------|---------------|
 | Chang | LFI for Cosmology and Galaxy Evolution | Python, ABC, Galaxy Clustering, Galaxy Evolution | @changhoonhahn |
-|----------|-------------|-----------|------------------|---------------|
 | Justin | LFI, cosmology, epidemiology, climate | pydelfi, python, tensorflow, deep learning, astrostats | @justinalsing |
 
