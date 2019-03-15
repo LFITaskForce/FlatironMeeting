@@ -85,4 +85,6 @@ any resources you might have that may be of interests to other participants
 | Danley | LFI, computational astrophysics, astrostatistics, exoplanets | Python, Julia, Approximate Bayesian Computation code (Julia), astronomy, physics | @dch216 |
 | Chang | LFI for Cosmology and Galaxy Evolution | Python, ABC, Galaxy Clustering, Galaxy Evolution | @changhoonhahn |
 | Justin | LFI, cosmology, epidemiology, climate | pydelfi, python, tensorflow, deep learning, astrostats | @justinalsing |
+| Pablo (remote) | LFI, LHC analyses, non-physics applications | Python, TensorFlow, Probablistic Programming, Particle Physics | @pablodecm |
+
 
