@@ -69,7 +69,7 @@ Feel free to propose, or ask for sessions on particular topics in the table belo
 | GitHub Primer  |  @EiffL   | @EiffL       |                         | Wed 1:30, in TBD |
 | Pyro crash course |           | @johannbrehmer | @johannbrehmer , @EiffL | |
 | BOLFI |           | @changhoonhahn | @changhoonhahn | | 
-
+| pydelfi tutorial |           | @changhoonhahn | @changhoonhahn | | 
 
 
 ## Hackers
