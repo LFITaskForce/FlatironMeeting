@@ -67,7 +67,7 @@ Feel free to propose, or ask for sessions on particular topics in the table belo
 | Breakout Topic | Leader(s) | Suggested by | Interested in attending | When and Where   |
 |----------------|-----------|--------------|-------------------------|------------------|
 | GitHub Primer  |  @EiffL   | @EiffL       |                         | Wed 1:30, in TBD |
-| Pyro crash course |           | @johannbrehmer | @johannbrehmer , @EiffL | |
+| Pyro (or pyprob) crash course |           | @johannbrehmer | @johannbrehmer , @EiffL | |
 | BOLFI |           | @changhoonhahn | @changhoonhahn | | 
 
 
