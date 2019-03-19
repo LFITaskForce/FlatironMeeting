@@ -78,7 +78,7 @@ Feel free to propose, or ask for sessions on particular topics in the table belo
 | pydelfi tutorial |   @justinalsing        | @changhoonhahn | @changhoonhahn, @johannbrehmer , @viajani | | 
 | summary of available software packages |           | @dfm | @dfm, @johannbrehmer, @dch216, @changhoonhahn  | | 
 | Intro to TensorFlow Probability by building a conditional density estimator for discrete counts | @EiffL | @EiffL | @changhoonhahn, @pelssers |  |
-| Nuisance hardened data compression/LFI of nuisance marginalized posteriors | @justinalsing | @justinalsing |  |  |
+| Nuisance hardened data compression/LFI of nuisance marginalized posteriors | @justinalsing | @justinalsing | @changhoonhahn |  |
 
 ## Hackers
 
