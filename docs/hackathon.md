@@ -63,6 +63,7 @@ Once you have created a new hack issue, be sure to list in the table below.
 | [Using LFI on Exoplanet Count Data](https://github.com/LFITaskForce/FlatironMeeting/issues/36) | @dch216 | People with knowledge of how to apply an LFI technique to work with 2D-grid data |                     | W-F      |
 | [Benchmark problems](https://github.com/LFITaskForce/FlatironMeeting/issues/33) | @jan-matthis | | @johannbrehmer | W-F |
 | [Global vs local summaries](https://github.com/LFITaskForce/FlatironMeeting/issues/39) | @bwandelt | | | W-F |
+| [Simple NDEs for known likelihood problems with pydelfi](https://github.com/LFITaskForce/FlatironMeeting/issues/44) | @justinalsing | | | W-F |
 
 ## Breakout tutorial sessions
 
