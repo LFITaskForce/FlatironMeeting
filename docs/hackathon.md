@@ -67,7 +67,7 @@ Feel free to propose, or ask for sessions on particular topics in the table belo
 | Breakout Topic | Leader(s) | Suggested by | Interested in attending | When and Where   |
 |----------------|-----------|--------------|-------------------------|------------------|
 | GitHub Primer  |  @EiffL   | @EiffL       |                         | Wed 1:30, in TBD |
-| Pyro crash course |           | @johannbrehmer | @johannbrehmer , @EiffL , @Linc-tw | |
+| Pyro crash course |           | @johannbrehmer | @johannbrehmer , @EiffL, @MilesCranmer, @Linc-tw  | |
 | BOLFI |           | @changhoonhahn | @changhoonhahn | | 
 | pydelfi tutorial |           | @changhoonhahn | @changhoonhahn | | 
 | summary of available software packages |           | @dfm | @dfm | | 
@@ -89,5 +89,6 @@ any resources you might have that may be of interests to other participants
 | Chang | LFI for Cosmology and Galaxy Evolution | Python, ABC, Galaxy Clustering, Galaxy Evolution | @changhoonhahn |
 | Justin | LFI, cosmology, epidemiology, climate | pydelfi, python, tensorflow, deep learning, astrostats | @justinalsing |
 | Pablo (remote) | LFI, LHC analyses, non-physics applications | Python, TensorFlow, Probablistic Programming, Particle Physics | @pablodecm |
+| Miles | Interpreting deep NNs, neural density estimation, dark matter, exoplanets, stellar dynamics | distributed training in PyTorch, Graph nets, Variational NNs  | @MilesCranmer |
 
 
