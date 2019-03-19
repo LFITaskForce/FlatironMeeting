@@ -73,7 +73,7 @@ Feel free to propose, or ask for sessions on particular topics in the table belo
 | BOLFI |           | @changhoonhahn | @changhoonhahn | | 
 | pydelfi tutorial |           | @changhoonhahn | @changhoonhahn, @johannbrehmer , @viajani | | 
 | summary of available software packages |           | @dfm | @dfm, @johannbrehmer, @dch216  | | 
-| Build a conditional density estimator for discrete counts with TF Probability | @EiffL | @EiffL |   |  |
+| Intro to TensorFlow Probability by building a conditional density estimator for discrete counts | @EiffL | @EiffL |   |  |
 
 ## Hackers
 
