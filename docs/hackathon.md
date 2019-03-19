@@ -76,9 +76,9 @@ Feel free to propose, or ask for sessions on particular topics in the table belo
 | Pyro (or pyprob) crash course |           | @johannbrehmer | @johannbrehmer, @EiffL, @MilesCranmer, @Linc-tw , @dch216  | |
 | BOLFI |     @OwenThomas      | @changhoonhahn | @changhoonhahn | | 
 | pydelfi tutorial |   @justinalsing        | @changhoonhahn | @changhoonhahn, @johannbrehmer , @viajani | | 
-| summary of available software packages |           | @dfm | @dfm, @johannbrehmer, @dch216, @changhoonhahn @cranmer  | | 
+| summary of available software packages |           | @dfm | @dfm, @johannbrehmer, @dch216, @changhoonhahn  | | 
 | Intro to TensorFlow Probability by building a conditional density estimator for discrete counts | @EiffL | @EiffL | @changhoonhahn, @pelssers |  |
-| Nuisance hardened data compression/LFI of nuisance marginalized posteriors | @justinalsing | @justinalsing | @changhoonhahn |  |
+| Nuisance hardened data compression/LFI of nuisance marginalized posteriors | @justinalsing | @justinalsing |  |  |
 
 ## Hackers
 
@@ -100,4 +100,4 @@ any resources you might have that may be of interests to other participants
 | Miles | Interpreting deep NNs, neural density estimation, dark matter, exoplanets, stellar dynamics | distributed training in PyTorch, Graph nets, Variational NNs  | @MilesCranmer |
 | Owen | Bayesian Methods, Simulator Inference, Misspecification Analysis, Life Sciences applications | Bayesian Nonparametrics, BOLFI  | @OwenThomas |
 | Bart | LFI for event reconstruction in TPCs, NDEs with discrete data | Python, ELFI (BOLFI), XENON1T event simulations, some experience with pydelfi | @pelssers |
-
+| Ben | cosmology, stats, computing | cosmology, stats, computing :) | @bwandelt|
