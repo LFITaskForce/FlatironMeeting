@@ -53,7 +53,7 @@ Once you have created a new hack issue, be sure to list in the table below.
 | Project title | Suggested by | Looking for ? | Likely Participants | Day/Days |
 |---------------|--------------|---------------|---------------------|----------|
 | [Likelihood-Free Inference Toolbox](https://github.com/LFITaskForce/FlatironMeeting/issues/10) | @EiffL | People with experience in (and strong feelings about ;-) ) open source software, probabilistic programming language, and practical LFI |                     | W-F      |
-| [NDEs for discrete (count) data](https://github.com/LFITaskForce/FlatironMeeting/issues/14) | @junstinalsing | People with background knowledge of conditional density estimation + general enthusiasm! | | W-F |
+| [NDEs for discrete (count) data](https://github.com/LFITaskForce/FlatironMeeting/issues/14) | @junstinalsing | People with background knowledge of conditional density estimation + general enthusiasm! | @pelssers | W-F |
 | [Living review for likelihood-free inference](https://github.com/LFITaskForce/FlatironMeeting/issues/15) | @justinalsing | People with knowledge of some corner(s) of the LFI method space, and/or the practicalities of implementation in different scenarios. Energy for writing. |   | W-F |
 | [Bayesian optimization for delfi](https://github.com/LFITaskForce/FlatironMeeting/issues/16) | @justinalsing | People with Bayesian optimization knowhow |   | W-F |
 | [ELFI](https://github.com/LFITaskForce/FlatironMeeting/issues/20) | @hpesonen | People wanting to contribute to ELFI | @OwenThomas | W-F |
@@ -77,7 +77,7 @@ Feel free to propose, or ask for sessions on particular topics in the table belo
 | BOLFI |     @OwenThomas      | @changhoonhahn | @changhoonhahn | | 
 | pydelfi tutorial |   @justinalsing        | @changhoonhahn | @changhoonhahn, @johannbrehmer , @viajani | | 
 | summary of available software packages |           | @dfm | @dfm, @johannbrehmer, @dch216, @changhoonhahn  | | 
-| Intro to TensorFlow Probability by building a conditional density estimator for discrete counts | @EiffL | @EiffL | @changhoonhahn |  |
+| Intro to TensorFlow Probability by building a conditional density estimator for discrete counts | @EiffL | @EiffL | @changhoonhahn, @pelssers |  |
 | Nuisance hardened data compression/LFI of nuisance marginalized posteriors | @justinalsing | @justinalsing |  |  |
 
 ## Hackers
@@ -88,7 +88,7 @@ any resources you might have that may be of interests to other participants
 
 
 | Name     |   Interests |  Skills/Resources | GitHub/Gitter Handle |
-|----------|-------------|-----------|------------------|---------------|
+|----------|-------------|-----------|------------------|
 | Francois | LFI for Cosmology and beyond | Python,TensorFlow, Deep Learning, Weak Lensing | @EiffL |
 | Johann   | LFI with more data from simulationis, particle physics, non-physics applications | Python, PyTorch, particle physics | @johannbrehmer |
 | Jan-Matthis | LFI, computational neuroscience | Python, PyTorch, TensorFlow, neuroscience | @jan-matthis |
@@ -99,6 +99,5 @@ any resources you might have that may be of interests to other participants
 | Tom | LFI for cosmology and novel statistical neural network method building | TensorFlow, Python, Julia, machine learning, ABC, PMC | @tomcharnock |
 | Miles | Interpreting deep NNs, neural density estimation, dark matter, exoplanets, stellar dynamics | distributed training in PyTorch, Graph nets, Variational NNs  | @MilesCranmer |
 | Owen | Bayesian Methods, Simulator Inference, Misspecification Analysis, Life Sciences applications | Bayesian Nonparametrics, BOLFI  | @OwenThomas |
-
-
+| Bart | LFI for event reconstruction in TPCs, NDEs with discrete data | Python, ELFI (BOLFI), XENON1T event simulations, some experience with pydelfi | @pelssers |
 
