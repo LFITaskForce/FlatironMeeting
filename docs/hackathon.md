@@ -74,6 +74,7 @@ Feel free to propose, or ask for sessions on particular topics in the table belo
 | summary of available software packages |           | @dfm | @dfm, @johannbrehmer | | 
 
 
+
 ## Hackers
 
 Use the following table to register your interests as well as your skills and
