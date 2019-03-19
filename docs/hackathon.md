@@ -62,7 +62,6 @@ Once you have created a new hack issue, be sure to list in the table below.
 | [Porting LFI Techniques to Julia](https://github.com/LFITaskForce/FlatironMeeting/issues/35) | @dch216 | People with experience in Julia (or high-level programming in general) and development experience in an LFI technique |                     | W-F      |
 | [Using LFI on Exoplanet Count Data](https://github.com/LFITaskForce/FlatironMeeting/issues/36) | @dch216 | People with knowledge of how to apply an LFI technique to work with 2D-grid data |                     | W-F      |
 | [Benchmark problems](https://github.com/LFITaskForce/FlatironMeeting/issues/33) | @jan-matthis | | @johannbrehmer | W-F |
-| [Global vs local summaries](https://github.com/LFITaskForce/FlatironMeeting/issues/39) | @bwandelt | | | W-F |
 
 ## Breakout tutorial sessions
 
@@ -77,7 +76,7 @@ Feel free to propose, or ask for sessions on particular topics in the table belo
 | BOLFI |     @OwenThomas      | @changhoonhahn | @changhoonhahn | | 
 | pydelfi tutorial |   @justinalsing        | @changhoonhahn | @changhoonhahn, @johannbrehmer , @viajani | | 
 | summary of available software packages |           | @dfm | @dfm, @johannbrehmer, @dch216, @changhoonhahn  | | 
-| Intro to TensorFlow Probability by building a conditional density estimator for discrete counts | @EiffL | @EiffL | @changhoonhahn |  |
+| Intro to TensorFlow Probability by building a conditional density estimator for discrete counts | @EiffL | @EiffL | @changhoonhahn, @Linc-tw |  |
 | Nuisance hardened data compression/LFI of nuisance marginalized posteriors | @justinalsing | @justinalsing |  |  |
 
 ## Hackers
