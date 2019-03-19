@@ -68,10 +68,10 @@ Feel free to propose, or ask for sessions on particular topics in the table belo
 | Breakout Topic | Leader(s) | Suggested by | Interested in attending | When and Where   |
 |----------------|-----------|--------------|-------------------------|------------------|
 | GitHub Primer  |  @EiffL   | @EiffL       |                         | Wed 1:30, in TBD |
-| Pyro (or pyprob) crash course |           | @johannbrehmer | @johannbrehmer , @EiffL, @MilesCranmer, @Linc-tw  | |
+| Pyro (or pyprob) crash course |           | @johannbrehmer | @johannbrehmer, @EiffL, @MilesCranmer, @Linc-tw  | |
 | BOLFI |           | @changhoonhahn | @changhoonhahn | | 
-| pydelfi tutorial |           | @changhoonhahn | @changhoonhahn | | 
-| summary of available software packages |           | @dfm | @dfm | | 
+| pydelfi tutorial |           | @changhoonhahn | @changhoonhahn, @johannbrehmer | | 
+| summary of available software packages |           | @dfm | @dfm, @johannbrehmer | | 
 
 
 ## Hackers
