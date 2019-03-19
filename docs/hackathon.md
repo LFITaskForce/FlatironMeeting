@@ -70,6 +70,7 @@ Feel free to propose, or ask for sessions on particular topics in the table belo
 | Pyro crash course |           | @johannbrehmer | @johannbrehmer , @EiffL , @Linc-tw | |
 | BOLFI |           | @changhoonhahn | @changhoonhahn | | 
 | pydelfi tutorial |           | @changhoonhahn | @changhoonhahn | | 
+| summary of available software packages |           | @dfm | @dfm | | 
 
 
 ## Hackers
