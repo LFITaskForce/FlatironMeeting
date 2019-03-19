@@ -58,7 +58,9 @@ Once you have created a new hack issue, be sure to list in the table below.
 | [Bayesian optimization for delfi](https://github.com/LFITaskForce/FlatironMeeting/issues/16) | @justinalsing | People with Bayesian optimization knowhow |   | W-F |
 | [ELFI](https://github.com/LFITaskForce/FlatironMeeting/issues/20) | @hpesonen | People wanting to contribute to ELFI | @OwenThomas | W-F |
 | [LFI on neutrino mass from cosmology](https://github.com/LFITaskForce/FlatironMeeting/issues/31) | @liuxx479 | Peoploe interested in LFI and neutrinos |  | W-F| 
-
+| [LFI flow chart](https://github.com/LFITaskForce/FlatironMeeting/issues/34) | @changhoonhahn | People with expertise or interest in the different LFI methods |  | W-F| 
+| [Porting LFI Techniques to Julia](https://github.com/LFITaskForce/FlatironMeeting/issues/35) | @dch216 | People with experience in Julia (or high-level programming in general) and development experience in an LFI technique |                     | W-F      |
+| [Using LFI on Exoplanet Count Data](https://github.com/LFITaskForce/FlatironMeeting/issues/36) | @dch216 | People with knowledge of how to apply an LFI technique to work with 2D-grid data |                     | W-F      |
 
 ## Breakout tutorial sessions
 
@@ -72,8 +74,8 @@ Feel free to propose, or ask for sessions on particular topics in the table belo
 | Pyro (or pyprob) crash course |           | @johannbrehmer | @johannbrehmer, @EiffL, @MilesCranmer, @Linc-tw , @dch216  | |
 | BOLFI |     @OwenThomas      | @changhoonhahn | @changhoonhahn | | 
 | pydelfi tutorial |           | @changhoonhahn | @changhoonhahn, @johannbrehmer , @viajani | | 
-| summary of available software packages |           | @dfm | @dfm, @johannbrehmer, @dch216  | | 
-| Intro to TensorFlow Probability by building a conditional density estimator for discrete counts | @EiffL | @EiffL |   |  |
+| summary of available software packages |           | @dfm | @dfm, @johannbrehmer, @dch216, @changhoonhahn  | | 
+| Intro to TensorFlow Probability by building a conditional density estimator for discrete counts | @EiffL | @EiffL, @changhoonhahn |   |  |
 
 ## Hackers
 
