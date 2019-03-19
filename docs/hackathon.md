@@ -61,6 +61,7 @@ Once you have created a new hack issue, be sure to list in the table below.
 | [LFI flow chart](https://github.com/LFITaskForce/FlatironMeeting/issues/34) | @changhoonhahn | People with expertise or interest in the different LFI methods |  | W-F| 
 | [Porting LFI Techniques to Julia](https://github.com/LFITaskForce/FlatironMeeting/issues/35) | @dch216 | People with experience in Julia (or high-level programming in general) and development experience in an LFI technique |                     | W-F      |
 | [Using LFI on Exoplanet Count Data](https://github.com/LFITaskForce/FlatironMeeting/issues/36) | @dch216 | People with knowledge of how to apply an LFI technique to work with 2D-grid data |                     | W-F      |
+| [Benchmark problems](https://github.com/LFITaskForce/FlatironMeeting/issues/33) | @jan-matthis | | @johannbrehmer | W-F |
 
 ## Breakout tutorial sessions
 
