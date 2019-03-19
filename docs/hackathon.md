@@ -71,10 +71,10 @@ Feel free to propose, or ask for sessions on particular topics in the table belo
 |----------------|-----------|--------------|-------------------------|------------------|
 | GitHub Primer  |  @EiffL   | @EiffL       |  @viajani                 | Wed 1:30, in TBD |
 | Pyro (or pyprob) crash course |           | @johannbrehmer | @johannbrehmer, @EiffL, @MilesCranmer, @Linc-tw , @dch216  | |
-| BOLFI |           | @changhoonhahn | @changhoonhahn | | 
+| BOLFI tutorial |           | @changhoonhahn | @changhoonhahn | | 
 | pydelfi tutorial |           | @changhoonhahn | @changhoonhahn, @johannbrehmer , @viajani | | 
-| summary of available software packages |           | @dfm | @dfm, @johannbrehmer, @dch216  | | 
-| Intro to TensorFlow Probability by building a conditional density estimator for discrete counts | @EiffL | @EiffL |   |  |
+| summary of available software packages |           | @dfm | @dfm, @johannbrehmer, @dch216, @changhoonhahn  | | 
+| Intro to TensorFlow Probability by building a conditional density estimator for discrete counts | @EiffL | @EiffL, @changhoonhahn |   |  |
 
 ## Hackers
 
