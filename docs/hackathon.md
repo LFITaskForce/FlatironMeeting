@@ -56,6 +56,7 @@ Once you have created a new hack issue, be sure to list in the table below.
 | [NDEs for discrete (count) data](https://github.com/LFITaskForce/FlatironMeeting/issues/14) | @junstinalsing | People with background knowledge of conditional density estimation + general enthusiasm! | | W-F |
 | [Living review for likelihood-free inference](https://github.com/LFITaskForce/FlatironMeeting/issues/15) | @justinalsing | People with knowledge of some corner(s) of the LFI method space, and/or the practicalities of implementation in different scenarios. Energy for writing. |   | W-F |
 | [Bayesian optimization for delfi](https://github.com/LFITaskForce/FlatironMeeting/issues/16) | @justinalsing | People with Bayesian optimization knowhow |   | W-F |
+| [ELFI](https://github.com/LFITaskForce/FlatironMeeting/issues/20) | @hpesonen | People wanting to contribute to ELFI | | W-F
 
 
 ## Breakout tutorial sessions
@@ -67,9 +68,10 @@ Feel free to propose, or ask for sessions on particular topics in the table belo
 | Breakout Topic | Leader(s) | Suggested by | Interested in attending | When and Where   |
 |----------------|-----------|--------------|-------------------------|------------------|
 | GitHub Primer  |  @EiffL   | @EiffL       |                         | Wed 1:30, in TBD |
-| Pyro (or pyprob) crash course |           | @johannbrehmer | @johannbrehmer , @EiffL | |
+| Pyro (or pyprob) crash course |           | @johannbrehmer | @johannbrehmer , @EiffL, @MilesCranmer, @Linc-tw  | |
 | BOLFI |           | @changhoonhahn | @changhoonhahn | | 
-
+| pydelfi tutorial |           | @changhoonhahn | @changhoonhahn | | 
+| summary of available software packages |           | @dfm | @dfm | | 
 
 
 ## Hackers
@@ -88,5 +90,6 @@ any resources you might have that may be of interests to other participants
 | Chang | LFI for Cosmology and Galaxy Evolution | Python, ABC, Galaxy Clustering, Galaxy Evolution | @changhoonhahn |
 | Justin | LFI, cosmology, epidemiology, climate | pydelfi, python, tensorflow, deep learning, astrostats | @justinalsing |
 | Pablo (remote) | LFI, LHC analyses, non-physics applications | Python, TensorFlow, Probablistic Programming, Particle Physics | @pablodecm |
+| Miles | Interpreting deep NNs, neural density estimation, dark matter, exoplanets, stellar dynamics | distributed training in PyTorch, Graph nets, Variational NNs  | @MilesCranmer |
 
 
