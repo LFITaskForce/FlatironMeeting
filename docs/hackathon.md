@@ -75,7 +75,7 @@ Feel free to propose, or ask for sessions on particular topics in the table belo
 | BOLFI |     @OwenThomas      | @changhoonhahn | @changhoonhahn | | 
 | pydelfi tutorial |           | @changhoonhahn | @changhoonhahn, @johannbrehmer , @viajani | | 
 | summary of available software packages |           | @dfm | @dfm, @johannbrehmer, @dch216, @changhoonhahn  | | 
-| Intro to TensorFlow Probability by building a conditional density estimator for discrete counts | @EiffL | @EiffL, @changhoonhahn |   |  |
+| Intro to TensorFlow Probability by building a conditional density estimator for discrete counts | @EiffL | @EiffL | @changhoonhahn |  |
 
 ## Hackers
 
