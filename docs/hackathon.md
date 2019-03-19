@@ -56,7 +56,7 @@ Once you have created a new hack issue, be sure to list in the table below.
 | [NDEs for discrete (count) data](https://github.com/LFITaskForce/FlatironMeeting/issues/14) | @junstinalsing | People with background knowledge of conditional density estimation + general enthusiasm! | | W-F |
 | [Living review for likelihood-free inference](https://github.com/LFITaskForce/FlatironMeeting/issues/15) | @justinalsing | People with knowledge of some corner(s) of the LFI method space, and/or the practicalities of implementation in different scenarios. Energy for writing. |   | W-F |
 | [Bayesian optimization for delfi](https://github.com/LFITaskForce/FlatironMeeting/issues/16) | @justinalsing | People with Bayesian optimization knowhow |   | W-F |
-| [ELFI](https://github.com/LFITaskForce/FlatironMeeting/issues/20) | @hpesonen | People wanting to contribute to ELFI | | W-F |
+| [ELFI](https://github.com/LFITaskForce/FlatironMeeting/issues/20) | @hpesonen | People wanting to contribute to ELFI | @OwenThomas | W-F |
 | [LFI on neutrino mass from cosmology](https://github.com/LFITaskForce/FlatironMeeting/issues/31) | @liuxx479 | Peoploe interested in LFI and neutrinos |  | W-F| 
 | [LFI flow chart](https://github.com/LFITaskForce/FlatironMeeting/issues/34) | @changhoonhahn | People with expertise or interest in the different LFI methods |  | W-F| 
 | [Porting LFI Techniques to Julia](https://github.com/LFITaskForce/FlatironMeeting/issues/35) | @dch216 | People with experience in Julia (or high-level programming in general) and development experience in an LFI technique |                     | W-F      |
@@ -72,7 +72,7 @@ Feel free to propose, or ask for sessions on particular topics in the table belo
 |----------------|-----------|--------------|-------------------------|------------------|
 | GitHub Primer  |  @EiffL   | @EiffL       |  @viajani                 | Wed 1:30, in TBD |
 | Pyro (or pyprob) crash course |           | @johannbrehmer | @johannbrehmer, @EiffL, @MilesCranmer, @Linc-tw , @dch216  | |
-| BOLFI tutorial |           | @changhoonhahn | @changhoonhahn | | 
+| BOLFI |     @OwenThomas      | @changhoonhahn | @changhoonhahn | | 
 | pydelfi tutorial |           | @changhoonhahn | @changhoonhahn, @johannbrehmer , @viajani | | 
 | summary of available software packages |           | @dfm | @dfm, @johannbrehmer, @dch216, @changhoonhahn  | | 
 | Intro to TensorFlow Probability by building a conditional density estimator for discrete counts | @EiffL | @EiffL, @changhoonhahn |   |  |
@@ -95,6 +95,7 @@ any resources you might have that may be of interests to other participants
 | Pablo (remote) | LFI, LHC analyses, non-physics applications | Python, TensorFlow, Probablistic Programming, Particle Physics | @pablodecm |
 | Tom | LFI for cosmology and novel statistical neural network method building | TensorFlow, Python, Julia, machine learning, ABC, PMC | @tomcharnock |
 | Miles | Interpreting deep NNs, neural density estimation, dark matter, exoplanets, stellar dynamics | distributed training in PyTorch, Graph nets, Variational NNs  | @MilesCranmer |
+| Owen | Bayesian Methods, Simulator Inference, Misspecification Analysis, Life Sciences applications | Bayesian Nonparametrics, BOLFI  | @OwenThomas |
 
 
 
