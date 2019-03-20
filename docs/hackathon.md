@@ -64,6 +64,7 @@ Once you have created a new hack issue, be sure to list in the table below.
 | [Benchmark problems](https://github.com/LFITaskForce/FlatironMeeting/issues/33) | @jan-matthis | | @johannbrehmer, @aimalz | W-F |
 | [Global vs local summaries](https://github.com/LFITaskForce/FlatironMeeting/issues/39) | @bwandelt | | | W-F |
 | [Simple NDEs for known likelihood problems with pydelfi](https://github.com/LFITaskForce/FlatironMeeting/issues/44) | @justinalsing | | @aimalz | W-F |
+| [compare LFI packages and NUTS](https://github.com/LFITaskForce/FlatironMeeting/issues/57) | @dfm | | | W-F |
 
 ## Breakout tutorial sessions
 
