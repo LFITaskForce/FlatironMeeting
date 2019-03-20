@@ -78,10 +78,10 @@ Feel free to propose, or ask for sessions on particular topics in the table belo
 | GitHub Primer  |  @EiffL   | @EiffL       |  @viajani                 | Wed 1:30, in TBD |
 | Pyro (or pyprob) crash course |           | @johannbrehmer | @johannbrehmer, @EiffL, @MilesCranmer, @Linc-tw , @dch216  | |
 | BOLFI |     @OwenThomas      | @changhoonhahn | @changhoonhahn, @umbertosimola | | 
-| pydelfi tutorial |   @justinalsing        | @changhoonhahn | @changhoonhahn, @johannbrehmer , @viajani, @umbertosimola, @VMBoehm | | 
+| pydelfi tutorial |   @justinalsing        | @changhoonhahn | @changhoonhahn, @johannbrehmer , @viajani, @umbertosimola, @VMBoehm, @sthagstotz | | 
 | summary of available software packages |           | @dfm | @dfm, @johannbrehmer, @dch216, @changhoonhahn, @cranmer, @aimalz, @jan-matthis  | | 
-| Intro to TensorFlow Probability by building a conditional density estimator for discrete counts | @EiffL | @EiffL | @changhoonhahn, @pelssers, @aimalz, @VMBoehm, @jan-matthis |  |
-| Nuisance hardened data compression/LFI of nuisance marginalized posteriors | @justinalsing | @justinalsing | @changhoonhahn, @aimalz, @VMBoehm |  |
+| Intro to TensorFlow Probability by building a conditional density estimator for discrete counts | @EiffL | @EiffL | @changhoonhahn, @pelssers, @aimalz, @VMBoehm, @jan-matthis, @sthagstotz |  |
+| Nuisance hardened data compression/LFI of nuisance marginalized posteriors | @justinalsing | @justinalsing | @changhoonhahn, @aimalz, @VMBoehm , @sthagstotz |  |
 
 ## Hackers
 
