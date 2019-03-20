@@ -53,16 +53,17 @@ Once you have created a new hack issue, be sure to list in the table below.
 | Project title | Suggested by | Looking for ? | Likely Participants | Day/Days |
 |---------------|--------------|---------------|---------------------|----------|
 | [Likelihood-Free Inference Toolbox](https://github.com/LFITaskForce/FlatironMeeting/issues/10) | @EiffL | People with experience in (and strong feelings about ;-) ) open source software, probabilistic programming language, and practical LFI |                     | W-F      |
-| [NDEs for discrete (count) data](https://github.com/LFITaskForce/FlatironMeeting/issues/14) | @junstinalsing | People with background knowledge of conditional density estimation + general enthusiasm! | @pelssers | W-F |
+| [NDEs for discrete (count) data](https://github.com/LFITaskForce/FlatironMeeting/issues/14) | @junstinalsing | People with background knowledge of conditional density estimation + general enthusiasm! | @OwenThomas, @pelssers, @bwandelt (also interested in strictly categorical (rather than count) data) | W-F |
 | [Living review for likelihood-free inference](https://github.com/LFITaskForce/FlatironMeeting/issues/15) | @justinalsing | People with knowledge of some corner(s) of the LFI method space, and/or the practicalities of implementation in different scenarios. Energy for writing. |   | W-F |
-| [Bayesian optimization for delfi](https://github.com/LFITaskForce/FlatironMeeting/issues/16) | @justinalsing | People with Bayesian optimization knowhow |   | W-F |
+| [Bayesian optimization for delfi](https://github.com/LFITaskForce/FlatironMeeting/issues/16) | @justinalsing | People with Bayesian optimization knowhow | @OwenThomas  | W-F |
 | [ELFI](https://github.com/LFITaskForce/FlatironMeeting/issues/20) | @hpesonen | People wanting to contribute to ELFI | @OwenThomas | W-F |
 | [LFI on neutrino mass from cosmology](https://github.com/LFITaskForce/FlatironMeeting/issues/31) | @liuxx479 | Peoploe interested in LFI and neutrinos |  | W-F| 
-| [LFI flow chart](https://github.com/LFITaskForce/FlatironMeeting/issues/34) | @changhoonhahn | People with expertise or interest in the different LFI methods |  | W-F| 
+| [LFI flow chart](https://github.com/LFITaskForce/FlatironMeeting/issues/34) | @changhoonhahn | People with expertise or interest in the different LFI methods | @OwenThomas | W-F| 
 | [Porting LFI Techniques to Julia](https://github.com/LFITaskForce/FlatironMeeting/issues/35) | @dch216 | People with experience in Julia (or high-level programming in general) and development experience in an LFI technique |                     | W-F      |
 | [Using LFI on Exoplanet Count Data](https://github.com/LFITaskForce/FlatironMeeting/issues/36) | @dch216 | People with knowledge of how to apply an LFI technique to work with 2D-grid data |                     | W-F      |
 | [Benchmark problems](https://github.com/LFITaskForce/FlatironMeeting/issues/33) | @jan-matthis | | @johannbrehmer | W-F |
 | [Global vs local summaries](https://github.com/LFITaskForce/FlatironMeeting/issues/39) | @bwandelt | | | W-F |
+| [Simple NDEs for known likelihood problems with pydelfi](https://github.com/LFITaskForce/FlatironMeeting/issues/44) | @justinalsing | | | W-F |
 
 ## Breakout tutorial sessions
 
@@ -74,11 +75,11 @@ Feel free to propose, or ask for sessions on particular topics in the table belo
 |----------------|-----------|--------------|-------------------------|------------------|
 | GitHub Primer  |  @EiffL   | @EiffL       |  @viajani                 | Wed 1:30, in TBD |
 | Pyro (or pyprob) crash course |           | @johannbrehmer | @johannbrehmer, @EiffL, @MilesCranmer, @Linc-tw , @dch216  | |
-| BOLFI |     @OwenThomas      | @changhoonhahn | @changhoonhahn | | 
+| BOLFI |     @OwenThomas      | @changhoonhahn | @changhoonhahn | |
 | pydelfi tutorial |   @justinalsing        | @changhoonhahn | @changhoonhahn, @johannbrehmer , @viajani,  @umbertosimola  | | 
-| summary of available software packages |           | @dfm | @dfm, @johannbrehmer, @dch216, @changhoonhahn  | | 
+| summary of available software packages |           | @dfm | @dfm, @johannbrehmer, @dch216, @changhoonhahn, @cranmer  | | 
 | Intro to TensorFlow Probability by building a conditional density estimator for discrete counts | @EiffL | @EiffL | @changhoonhahn, @pelssers |  |
-| Nuisance hardened data compression/LFI of nuisance marginalized posteriors | @justinalsing | @justinalsing |  |  |
+| Nuisance hardened data compression/LFI of nuisance marginalized posteriors | @justinalsing | @justinalsing | @changhoonhahn |  |
 
 ## Hackers
 
