@@ -65,6 +65,7 @@ Once you have created a new hack issue, be sure to list in the table below.
 | [Simple NDEs for known likelihood problems with pydelfi](https://github.com/LFITaskForce/FlatironMeeting/issues/44) | @justinalsing | | @aimalz | W-F |
 | [compare LFI packages and NUTS](https://github.com/LFITaskForce/FlatironMeeting/issues/57) | @dfm | | | W-F |
 | [gravitational lensing parameter estimation](https://github.com/LFITaskForce/FlatironMeeting/issues/56) | @yasharhezaveh | | | W-F |
+| ["Gold mining" from malaria simulations](https://github.com/LFITaskForce/FlatironMeeting/issues/63) | @justinalsing, @johannbrehmer | | | F |
 
 ## Breakout tutorial sessions
 
