@@ -4,6 +4,8 @@
 
 Meeting website here: https://lfitaskforce.github.io/FlatironMeeting/
 
+![Logo](https://user-images.githubusercontent.com/38233719/54759008-59853c80-4c41-11e9-8310-a22752180489.png "logo")
+
 The goal of this interdisciplinary meeting is to gather developers and users of Likelihood-Free
 Inference methods to share latest techniques, use cases and applications across
 different fields, and discuss open challenges. Part of this workshop will also
